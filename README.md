@@ -4,7 +4,7 @@ This is the safe shutdown script for x735;
 How to use?
 
 * step 1:
-> wget https://raw.githubusercontent.com/geekworm-com/x730-script/master/x730.sh
+> wget https://raw.githubusercontent.com/FlyBoy6001/x730-script/master/x735.sh
 
 > sudo chmod +x x735.sh
 
