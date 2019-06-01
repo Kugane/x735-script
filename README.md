@@ -1,10 +1,10 @@
 # x735-script
 This is the safe shutdown script for x735. It is identical to the x730 script except it has been updated to use the x735 name.
 
-Press the momentary button or external momentary power switch to turn on
-Press the momentary button or external momentary power switch and hold for 1~2seconds to reboot
-Press the momentary button or external momentary power switch and hold for 3~7seconds to implement safe shutdown
-Press the momentary button or external momentary power switch and hold for more than 8 seconds to force shutdown
+Press the momentary button or external momentary power switch to turn on;
+Press the momentary button or external momentary power switch and hold for 1~2seconds to reboot;
+Press the momentary button or external momentary power switch and hold for 3~7seconds to implement safe shutdown;
+Press the momentary button or external momentary power switch and hold for more than 8 seconds to force shutdown;
 
 How to install and setup the x735 script:
 
