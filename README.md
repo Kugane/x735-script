@@ -5,7 +5,7 @@ It is identical to the x730 script but updated to use the x735 name.
 How to use?
 
 * step 1:
-> wget https://raw.githubusercontent.com/FlyBoy6001/x730-script/master/x735.sh
+> wget https://raw.githubusercontent.com/FlyBoy6001/x735-script/master/x735.sh
 
 > sudo chmod +x x735.sh
 
