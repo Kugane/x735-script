@@ -1,6 +1,6 @@
 # x735-script
 This is the safe shutdown script for x735;
-It is identical to the x730 script but updated to use the x735 name.
+It is identical to the x730 script except it has been updated to use the x735 name.
 
 How to use?
 
