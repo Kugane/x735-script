@@ -1,10 +1,6 @@
 # x735-script
 This is the safe shutdown script for x735;
 
-NOTE:
-
-We test this shell script base official Raspbian '2018-11-13-raspbian-stretch.img' version;
-
 How to use?
 
 * step 1:
