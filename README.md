@@ -14,7 +14,7 @@ Press the momentary button or external momentary power switch and hold for more 
 How to install and setup the x735 script:
 
 * step 1:
-> wget https://raw.githubusercontent.com/FlyBoy6001/x735-script/master/x735.sh
+> wget https://raw.githubusercontent.com/Kugane/x735-script/master/x735.sh
 
 > sudo chmod +x x735.sh
 
